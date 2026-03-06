@@ -4,3 +4,4 @@ console.log(`alunoB inserindo a linha 2`);
 let calculo: number = (75 + 75) /3; //imaginando um calculo qualquer
 let concatenar: string = `Git` + `Hub`;
 console.log(`Concatenado ${concatenar}`);
+console.log(`Inserindo linha 7 pelo alunoB`);
